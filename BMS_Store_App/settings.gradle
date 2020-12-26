@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "BMS_Store_App"
